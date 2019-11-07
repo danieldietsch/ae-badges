@@ -19,5 +19,7 @@ The badges also work when printed in grayscale.
 
 ![All badges in color, and black and white](https://raw.githubusercontent.com/schaetzc/vmcai-badges/master/preview.png)
 
+The badges are licensed under CC0. No attribution is required.
+
   [1]: https://popl20.sigplan.org/home/VMCAI-2020#Call-for-Artifacts
 
