@@ -1,0 +1,1212 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="65.199997mm"
+   height="55.199997mm"
+   viewBox="0 0 65.199995 55.199997"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
+   sodipodi:docname="badges.svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1072">
+      <stop
+         style="stop-color:#fff394;stop-opacity:1;"
+         offset="0"
+         id="stop1068" />
+      <stop
+         style="stop-color:#fafafa;stop-opacity:1"
+         offset="1"
+         id="stop1070" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1064">
+      <stop
+         style="stop-color:#fff394;stop-opacity:1;"
+         offset="0"
+         id="stop1060" />
+      <stop
+         style="stop-color:#fafafa;stop-opacity:1"
+         offset="1"
+         id="stop1062" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1056">
+      <stop
+         style="stop-color:#fff394;stop-opacity:1"
+         offset="0"
+         id="stop1052" />
+      <stop
+         style="stop-color:#fafafa;stop-opacity:1"
+         offset="1"
+         id="stop1054" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1048">
+      <stop
+         style="stop-color:#d1ff82;stop-opacity:1"
+         offset="0"
+         id="stop1044" />
+      <stop
+         style="stop-color:#fafafa;stop-opacity:1"
+         offset="1"
+         id="stop1046" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1040">
+      <stop
+         style="stop-color:#d1ff82;stop-opacity:1"
+         offset="0"
+         id="stop1036" />
+      <stop
+         style="stop-color:#fafafa;stop-opacity:1"
+         offset="1"
+         id="stop1038" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1026">
+      <stop
+         style="stop-color:#8cd5ff;stop-opacity:1;"
+         offset="0"
+         id="stop1022" />
+      <stop
+         style="stop-color:#fafafa;stop-opacity:1"
+         offset="1"
+         id="stop1024" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient2323"
+       inkscape:collect="always">
+      <stop
+         id="stop2319"
+         offset="0"
+         style="stop-color:#f9c440;stop-opacity:1" />
+      <stop
+         id="stop2321"
+         offset="1"
+         style="stop-color:#ad5f00;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient2286">
+      <stop
+         style="stop-color:#ad5f00;stop-opacity:1"
+         offset="0"
+         id="stop2282" />
+      <stop
+         style="stop-color:#f9c440;stop-opacity:1"
+         offset="1"
+         id="stop2284" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient2280"
+       inkscape:collect="always">
+      <stop
+         id="stop2264"
+         offset="0"
+         style="stop-color:#ad5f00;stop-opacity:1" />
+      <stop
+         style="stop-color:#ad5f00;stop-opacity:1"
+         offset="0.1470585"
+         id="stop2266" />
+      <stop
+         style="stop-color:#d48e15;stop-opacity:1"
+         offset="0.22420056"
+         id="stop2268" />
+      <stop
+         id="stop2270"
+         offset="0.52062809"
+         style="stop-color:#ad5f00;stop-opacity:1" />
+      <stop
+         style="stop-color:#ad5f00;stop-opacity:1"
+         offset="0.61472851"
+         id="stop2272" />
+      <stop
+         style="stop-color:#d48e15;stop-opacity:1"
+         offset="0.71900058"
+         id="stop2274" />
+      <stop
+         id="stop2276"
+         offset="0.93997854"
+         style="stop-color:#ad5f00;stop-opacity:1" />
+      <stop
+         id="stop2278"
+         offset="1"
+         style="stop-color:#ad5f00;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient2194"
+       inkscape:collect="always">
+      <stop
+         id="stop2190"
+         offset="0"
+         style="stop-color:#206b00;stop-opacity:1" />
+      <stop
+         id="stop2192"
+         offset="1"
+         style="stop-color:#68b723;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient2150">
+      <stop
+         style="stop-color:#206b00;stop-opacity:1"
+         offset="0"
+         id="stop2134" />
+      <stop
+         id="stop2136"
+         offset="0.1470585"
+         style="stop-color:#206b00;stop-opacity:1" />
+      <stop
+         id="stop2138"
+         offset="0.22420056"
+         style="stop-color:#3a9104;stop-opacity:1" />
+      <stop
+         style="stop-color:#206b00;stop-opacity:1"
+         offset="0.52062809"
+         id="stop2140" />
+      <stop
+         id="stop2142"
+         offset="0.61472851"
+         style="stop-color:#206b00;stop-opacity:1" />
+      <stop
+         id="stop2144"
+         offset="0.71900058"
+         style="stop-color:#3a9104;stop-opacity:1" />
+      <stop
+         style="stop-color:#206b00;stop-opacity:1"
+         offset="0.93997854"
+         id="stop2146" />
+      <stop
+         style="stop-color:#206b00;stop-opacity:1"
+         offset="1"
+         id="stop2148" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient2095"
+       inkscape:collect="always">
+      <stop
+         id="stop2079"
+         offset="0"
+         style="stop-color:#002e99;stop-opacity:1" />
+      <stop
+         style="stop-color:#002e99;stop-opacity:1"
+         offset="0.1470585"
+         id="stop2081" />
+      <stop
+         style="stop-color:#0d52bf;stop-opacity:1"
+         offset="0.22420056"
+         id="stop2083" />
+      <stop
+         id="stop2085"
+         offset="0.52062809"
+         style="stop-color:#002e99;stop-opacity:1" />
+      <stop
+         style="stop-color:#002e99;stop-opacity:1"
+         offset="0.61472851"
+         id="stop2087" />
+      <stop
+         style="stop-color:#0d52bf;stop-opacity:1"
+         offset="0.71900058"
+         id="stop2089" />
+      <stop
+         id="stop2091"
+         offset="0.93997854"
+         style="stop-color:#002e99;stop-opacity:1" />
+      <stop
+         id="stop2093"
+         offset="1"
+         style="stop-color:#002e99;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1972">
+      <stop
+         style="stop-color:#002e99;stop-opacity:1"
+         offset="0"
+         id="stop1968" />
+      <stop
+         style="stop-color:#3689e6;stop-opacity:1"
+         offset="1"
+         id="stop1970" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient1718"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#7a0000;stop-opacity:1;"
+         offset="0"
+         id="stop1716" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient1712"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#002e99;stop-opacity:1;"
+         offset="0"
+         id="stop1710" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient1706"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#a56de2;stop-opacity:1;"
+         offset="0"
+         id="stop1704" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient1700"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#002e99;stop-opacity:1;"
+         offset="0"
+         id="stop1698" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2095"
+       id="linearGradient1934"
+       x1="96.873833"
+       y1="47.590485"
+       x2="81.873878"
+       y2="33.431633"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1972"
+       id="linearGradient1974"
+       x1="96.873878"
+       y1="53.431633"
+       x2="81.873878"
+       y2="33.431633"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-4.9479004e-5,2.6004395e-5)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1972"
+       id="linearGradient2128"
+       gradientUnits="userSpaceOnUse"
+       x1="89.042473"
+       y1="-46.014709"
+       x2="90.010872"
+       y2="-47.347607"
+       gradientTransform="matrix(1.2321,0,0,1.2321,-20.743651,10.894118)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2150"
+       id="linearGradient2132"
+       gradientUnits="userSpaceOnUse"
+       x1="96.873833"
+       y1="47.590485"
+       x2="81.873878"
+       y2="33.431633"
+       gradientTransform="translate(20.000171)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2194"
+       id="linearGradient2188"
+       gradientUnits="userSpaceOnUse"
+       x1="107.48226"
+       y1="-45.948544"
+       x2="108.45067"
+       y2="-47.281441"
+       gradientTransform="matrix(1.2321,0,0,1.2321,-25.163844,10.878761)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2194"
+       id="linearGradient2219"
+       gradientUnits="userSpaceOnUse"
+       x1="110.60231"
+       y1="-45.948544"
+       x2="111.57072"
+       y2="-47.281441"
+       gradientTransform="matrix(1.2321,0,0,1.2321,-25.607375,10.878761)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2194"
+       id="linearGradient2235"
+       x1="116.87388"
+       y1="53.431633"
+       x2="101.87388"
+       y2="33.431633"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2280"
+       id="linearGradient2262"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(40.000171)"
+       x1="96.873833"
+       y1="47.590485"
+       x2="81.873878"
+       y2="33.431633" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2286"
+       id="linearGradient2288"
+       x1="136.87389"
+       y1="53.431633"
+       x2="121.87388"
+       y2="33.431633"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2323"
+       id="linearGradient2317"
+       gradientUnits="userSpaceOnUse"
+       x1="126.89064"
+       y1="-47.215317"
+       x2="125.92223"
+       y2="-45.88242"
+       gradientTransform="matrix(1.2321,0,0,1.2321,-29.467148,10.863414)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2323"
+       id="linearGradient2340"
+       gradientUnits="userSpaceOnUse"
+       x1="126.89064"
+       y1="-47.215317"
+       x2="125.92223"
+       y2="-45.88242"
+       gradientTransform="matrix(1.2321,0,0,1.2321,-26.183382,10.863414)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2323"
+       id="linearGradient2344"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.2321,0,0,1.2321,-22.899638,10.863414)"
+       x1="126.89064"
+       y1="-47.215317"
+       x2="125.92223"
+       y2="-45.88242" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1026"
+       id="linearGradient1028"
+       x1="88.588783"
+       y1="-47.442871"
+       x2="88.713295"
+       y2="-46.577034"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1040"
+       id="linearGradient1042"
+       x1="106.88825"
+       y1="-47.376705"
+       x2="107.01276"
+       y2="-46.510868"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1048"
+       id="linearGradient1050"
+       x1="110.28896"
+       y1="-47.376705"
+       x2="110.41347"
+       y2="-46.510868"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1056"
+       id="linearGradient1058"
+       x1="125.30485"
+       y1="-47.310581"
+       x2="125.42936"
+       y2="-46.444744"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1064"
+       id="linearGradient1066"
+       x1="128.58861"
+       y1="-47.310581"
+       x2="128.71313"
+       y2="-46.444744"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1072"
+       id="linearGradient1074"
+       x1="131.87234"
+       y1="-47.310581"
+       x2="131.99687"
+       y2="-46.444744"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="186.79099"
+     inkscape:cy="131.9433"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1037"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:snap-bbox="true"
+     inkscape:object-paths="false"
+     inkscape:snap-intersection-paths="false"
+     inkscape:snap-bbox-midpoints="false"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-global="true"
+     inkscape:bbox-nodes="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-grids="true">
+    <inkscape:grid
+       id="grid1394"
+       type="xygrid"
+       originx="0.10000204"
+       originy="-39.900003"
+       units="mm"
+       spacingx="0.99999999"
+       spacingy="0.99999999" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-76.773878,-3.3316342)">
+    <rect
+       ry="1.5"
+       rx="1.5"
+       y="8.4316349"
+       x="121.87389"
+       height="20"
+       width="15"
+       id="rect1509"
+       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ad5f00;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:10.01574802;stroke-opacity:1;paint-order:normal" />
+    <rect
+       ry="1.5"
+       rx="1.5"
+       y="8.4316339"
+       x="101.87388"
+       height="20"
+       width="15"
+       id="rect1446"
+       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#206b00;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:10.01574802;stroke-opacity:1;paint-order:normal" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#002e99;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:10.01574802;stroke-opacity:1;paint-order:normal"
+       id="rect1485"
+       width="15"
+       height="20"
+       x="81.874054"
+       y="8.4316101"
+       rx="1.5"
+       ry="1.5" />
+    <rect
+       ry="1.5"
+       rx="1.5"
+       y="33.43166"
+       x="121.87372"
+       height="20"
+       width="15"
+       id="rect2383"
+       style="opacity:1;vector-effect:none;fill:#fafafa;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:10.01574802;stroke-opacity:1;paint-order:normal" />
+    <rect
+       ry="1.5"
+       rx="1.5"
+       y="33.431656"
+       x="101.8737"
+       height="20"
+       width="15"
+       id="rect2348"
+       style="opacity:1;vector-effect:none;fill:#fafafa;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:10.01574802;stroke-opacity:1;paint-order:normal" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#fafafa;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:10.01574802;stroke-opacity:1;paint-order:normal"
+       id="rect2346"
+       width="15"
+       height="20"
+       x="81.873833"
+       y="33.43166"
+       rx="1.5"
+       ry="1.5" />
+    <path
+       style="opacity:1;vector-effect:none;fill:url(#linearGradient2262);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:10.01574802;stroke-opacity:1;paint-order:normal"
+       d="m 123.37405,33.431659 c -0.831,0 -1.50017,0.669169 -1.50017,1.500167 v 12.655042 a 22.500002,22.500002 0 0 0 7.50032,1.315682 22.500002,22.500002 0 0 0 7.4998,-1.312066 V 34.931826 c 0,-0.830998 -0.66916,-1.500167 -1.50016,-1.500167 z"
+       id="path2260"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2130"
+       d="m 103.37405,33.431659 c -0.831,0 -1.50017,0.669169 -1.50017,1.500167 v 12.655042 a 22.500002,22.500002 0 0 0 7.50032,1.315682 22.500002,22.500002 0 0 0 7.4998,-1.312066 V 34.931826 c 0,-0.830998 -0.66916,-1.500167 -1.50016,-1.500167 z"
+       style="opacity:1;vector-effect:none;fill:url(#linearGradient2132);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:10.01574802;stroke-opacity:1;paint-order:normal" />
+    <path
+       style="opacity:1;vector-effect:none;fill:#ad5f00;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:10.01574802;stroke-opacity:1;paint-order:normal"
+       d="m 123.37387,8.4316612 c -0.831,0 -1.50017,0.669169 -1.50017,1.5001673 V 22.58687 a 22.500002,22.500002 0 0 0 7.50032,1.315682 22.500002,22.500002 0 0 0 7.4998,-1.312066 V 9.9318285 c 0,-0.8309983 -0.66916,-1.5001673 -1.50016,-1.5001673 z"
+       id="path1511"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path1487"
+       d="m 83.37405,8.4316341 c -0.831,0 -1.50017,0.669169 -1.50017,1.5001673 V 22.586843 a 22.500002,22.500002 0 0 0 7.50032,1.315682 22.500002,22.500002 0 0 0 7.4998,-1.312066 V 9.9318014 c 0,-0.8309983 -0.66916,-1.5001673 -1.50016,-1.5001673 z"
+       style="opacity:1;vector-effect:none;fill:#002e99;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:10.01574802;stroke-opacity:1;paint-order:normal" />
+    <path
+       style="opacity:1;vector-effect:none;fill:#206b00;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:10.01574802;stroke-opacity:1;paint-order:normal"
+       d="m 103.37387,8.4316562 c -0.831,0 -1.50017,0.669169 -1.50017,1.5001671 V 22.586865 a 22.500002,22.500002 0 0 0 7.50031,1.315682 22.500002,22.500002 0 0 0 7.4998,-1.312066 V 9.9318233 c 0,-0.8309981 -0.66916,-1.5001671 -1.50016,-1.5001671 z"
+       id="circle1472"
+       inkscape:connector-curvature="0" />
+    <text
+       id="text1189"
+       y="88.663612"
+       x="202.17006"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.40768051px;line-height:1;font-family:'TeX Gyre Adventor';-inkscape-font-specification:'TeX Gyre Adventor Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#003399;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.40768051px;line-height:1;font-family:'TeX Gyre Adventor';-inkscape-font-specification:'TeX Gyre Adventor Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;fill:#003399;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         y="92.188805"
+         x="202.17006"
+         id="tspan1187"
+         sodipodi:role="line" /></text>
+    <text
+       id="text1937"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.13986492px;line-height:1;font-family:'TeX Gyre Adventor';-inkscape-font-specification:'TeX Gyre Adventor Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       xml:space="preserve"
+       x="71.542397"
+       y="10.315921"
+       transform="translate(0.42094951,-2.5724692)"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.13986492px;line-height:1;font-family:'TeX Gyre Adventor';-inkscape-font-specification:'TeX Gyre Adventor Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="tspan1935">Functional</tspan></text>
+    <text
+       id="text2303"
+       y="53.492844"
+       x="242.90762"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.01488876px;line-height:1;font-family:'TeX Gyre Adventor';-inkscape-font-specification:'TeX Gyre Adventor Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.01488876px;line-height:1;font-family:'TeX Gyre Adventor';-inkscape-font-specification:'TeX Gyre Adventor Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         y="55.904102"
+         x="242.90762"
+         id="tspan2301"
+         sodipodi:role="line" /></text>
+    <rect
+       style="opacity:1;vector-effect:none;fill:#6699ff;fill-opacity:1;fill-rule:evenodd;stroke:#003399;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:10.01574802;stroke-opacity:1;paint-order:normal"
+       id="rect1275"
+       width="15"
+       height="20"
+       x="36.873878"
+       y="33.431633"
+       rx="1.5"
+       ry="1.5" />
+    <g
+       id="g1440"
+       transform="translate(-59.999994,-4.9999933)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.78558969px;line-height:1;font-family:'TeX Gyre Adventor';-inkscape-font-specification:'TeX Gyre Adventor Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="97.97081"
+         y="42.718044"
+         id="text1291"><tspan
+           sodipodi:role="line"
+           x="97.97081"
+           y="42.718044"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.78558969px;line-height:1;font-family:'TeX Gyre Adventor';-inkscape-font-specification:'TeX Gyre Adventor Bold';text-align:start;text-anchor:start;fill:#ffffff;stroke-width:0.26458332"
+           id="tspan1289">VMCAI</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.57715631px;line-height:1;font-family:'TeX Gyre Adventor';-inkscape-font-specification:'TeX Gyre Adventor Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458329;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         x="97.76738"
+         y="48.80695"
+         id="text1295"><tspan
+           sodipodi:role="line"
+           id="tspan1293"
+           x="97.76738"
+           y="48.80695"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.57715631px;line-height:1;font-family:'TeX Gyre Adventor';-inkscape-font-specification:'TeX Gyre Adventor Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458329;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1">Evaluation</tspan></text>
+      <text
+         id="text1301"
+         y="46.194206"
+         x="97.916733"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.7014389px;line-height:1;font-family:'TeX Gyre Adventor';-inkscape-font-specification:'TeX Gyre Adventor Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.7014389px;line-height:1;font-family:'TeX Gyre Adventor';-inkscape-font-specification:'TeX Gyre Adventor Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           y="46.194206"
+           x="97.916733"
+           id="tspan1299"
+           sodipodi:role="line">Artifact</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.57527781px;line-height:1;font-family:'TeX Gyre Adventor';-inkscape-font-specification:'TeX Gyre Adventor Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#003399;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="44.307793"
+       y="51.96254"
+       id="text1339"><tspan
+         sodipodi:role="line"
+         id="tspan1337"
+         x="44.307793"
+         y="51.96254"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.57527781px;line-height:1;font-family:'TeX Gyre Adventor';-inkscape-font-specification:'TeX Gyre Adventor Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;vector-effect:none;fill:#003399;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1">Functional</tspan></text>
+    <circle
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#003399;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:10.01574802;stroke-opacity:1;paint-order:normal"
+       id="path1285"
+       cx="-44.373894"
+       cy="-26.40247"
+       r="22.500002"
+       transform="scale(-1)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.78558969px;line-height:1;font-family:'TeX Gyre Adventor';-inkscape-font-specification:'TeX Gyre Adventor Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="102.97082"
+       y="12.784197"
+       id="text1450"><tspan
+         sodipodi:role="line"
+         x="102.97082"
+         y="12.784197"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.78558969px;line-height:1;font-family:'TeX Gyre Adventor';-inkscape-font-specification:'TeX Gyre Adventor Bold';text-align:start;text-anchor:start;fill:#ffffff;stroke-width:0.26458332"
+         id="tspan1448">VMCAI</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.57715631px;line-height:1;font-family:'TeX Gyre Adventor';-inkscape-font-specification:'TeX Gyre Adventor Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458329;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="102.76739"
+       y="19.013418"
+       id="text1454"><tspan
+         sodipodi:role="line"
+         id="tspan1452"
+         x="102.76739"
+         y="19.013418"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.57715631px;line-height:1;font-family:'TeX Gyre Adventor';-inkscape-font-specification:'TeX Gyre Adventor Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458329;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1">Evaluation</tspan></text>
+    <text
+       id="text1458"
+       y="16.353903"
+       x="102.91675"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.7014389px;line-height:1;font-family:'TeX Gyre Adventor';-inkscape-font-specification:'TeX Gyre Adventor Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.7014389px;line-height:1;font-family:'TeX Gyre Adventor';-inkscape-font-specification:'TeX Gyre Adventor Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         y="16.353903"
+         x="102.91675"
+         id="tspan1456"
+         sodipodi:role="line">Artifact</tspan></text>
+    <text
+       id="text1464"
+       y="26.896399"
+       x="109.35455"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.57527781px;line-height:1;font-family:'TeX Gyre Adventor';-inkscape-font-specification:'TeX Gyre Adventor Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#206b00;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.57527781px;line-height:1;font-family:'TeX Gyre Adventor';-inkscape-font-specification:'TeX Gyre Adventor Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;vector-effect:none;fill:#206b00;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         y="26.896399"
+         x="109.35455"
+         id="tspan1462"
+         sodipodi:role="line">Functional</tspan></text>
+    <path
+       transform="scale(1,-1)"
+       inkscape:transform-center-y="0.017083562"
+       inkscape:transform-center-x="1.061015e-06"
+       d="m 89.37394,-22.034313 0.637109,-0.313269 -0.10106,0.702732 0.494815,0.509122 -0.699568,0.121043 -0.331297,0.627924 -0.331296,-0.627924 -0.699568,-0.121043 0.494815,-0.509122 -0.10106,-0.702732 z"
+       inkscape:randomized="0"
+       inkscape:rounded="0"
+       inkscape:flatsided="false"
+       sodipodi:arg2="-0.94247777"
+       sodipodi:arg1="-1.5707963"
+       sodipodi:r2="1.0839154"
+       sodipodi:r1="0.563636"
+       sodipodi:cy="-21.470677"
+       sodipodi:cx="89.37394"
+       sodipodi:sides="5"
+       id="path1466"
+       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       sodipodi:type="star" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.57527781px;line-height:1;font-family:'TeX Gyre Adventor';-inkscape-font-specification:'TeX Gyre Adventor Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0.14552084px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#002e99;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="89.40625"
+       y="26.896374"
+       id="text1479"><tspan
+         sodipodi:role="line"
+         id="tspan1477"
+         x="89.479012"
+         y="26.896374"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.57527781px;line-height:1;font-family:'TeX Gyre Adventor';-inkscape-font-specification:'TeX Gyre Adventor Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0.14552084px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;vector-effect:none;fill:#002e99;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1">Available</tspan></text>
+    <text
+       id="text1483"
+       y="26.860346"
+       x="129.32753"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.57527781px;line-height:1;font-family:'TeX Gyre Adventor';-inkscape-font-specification:'TeX Gyre Adventor Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0.14552084px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#ad5f00;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.57527781px;line-height:1;font-family:'TeX Gyre Adventor';-inkscape-font-specification:'TeX Gyre Adventor Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0.14552084px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;vector-effect:none;fill:#ad5f00;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         y="26.860346"
+         x="129.40028"
+         id="tspan1481"
+         sodipodi:role="line">Reusable</tspan></text>
+    <text
+       id="text1491"
+       y="12.784175"
+       x="82.971001"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.78558969px;line-height:1;font-family:'TeX Gyre Adventor';-inkscape-font-specification:'TeX Gyre Adventor Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         id="tspan1489"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.78558969px;line-height:1;font-family:'TeX Gyre Adventor';-inkscape-font-specification:'TeX Gyre Adventor Bold';text-align:start;text-anchor:start;fill:#ffffff;stroke-width:0.26458332"
+         y="12.784175"
+         x="82.971001"
+         sodipodi:role="line">VMCAI</tspan></text>
+    <text
+       id="text1495"
+       y="19.013395"
+       x="82.76757"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.57715631px;line-height:1;font-family:'TeX Gyre Adventor';-inkscape-font-specification:'TeX Gyre Adventor Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458329;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.57715631px;line-height:1;font-family:'TeX Gyre Adventor';-inkscape-font-specification:'TeX Gyre Adventor Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458329;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         y="19.013395"
+         x="82.76757"
+         id="tspan1493"
+         sodipodi:role="line">Evaluation</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.7014389px;line-height:1;font-family:'TeX Gyre Adventor';-inkscape-font-specification:'TeX Gyre Adventor Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="82.916924"
+       y="16.35388"
+       id="text1499"><tspan
+         sodipodi:role="line"
+         id="tspan1497"
+         x="82.916924"
+         y="16.35388"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.7014389px;line-height:1;font-family:'TeX Gyre Adventor';-inkscape-font-specification:'TeX Gyre Adventor Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1">Artifact</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.78558969px;line-height:1;font-family:'TeX Gyre Adventor';-inkscape-font-specification:'TeX Gyre Adventor Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="122.97082"
+       y="12.784202"
+       id="text1515"><tspan
+         sodipodi:role="line"
+         x="122.97082"
+         y="12.784202"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.78558969px;line-height:1;font-family:'TeX Gyre Adventor';-inkscape-font-specification:'TeX Gyre Adventor Bold';text-align:start;text-anchor:start;fill:#ffffff;stroke-width:0.26458332"
+         id="tspan1513">VMCAI</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.57715631px;line-height:1;font-family:'TeX Gyre Adventor';-inkscape-font-specification:'TeX Gyre Adventor Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458329;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="122.76739"
+       y="19.013422"
+       id="text1519"><tspan
+         sodipodi:role="line"
+         id="tspan1517"
+         x="122.76739"
+         y="19.013422"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.57715631px;line-height:1;font-family:'TeX Gyre Adventor';-inkscape-font-specification:'TeX Gyre Adventor Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458329;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1">Evaluation</tspan></text>
+    <text
+       id="text1523"
+       y="16.353907"
+       x="122.91674"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.7014389px;line-height:1;font-family:'TeX Gyre Adventor';-inkscape-font-specification:'TeX Gyre Adventor Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.7014389px;line-height:1;font-family:'TeX Gyre Adventor';-inkscape-font-specification:'TeX Gyre Adventor Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         y="16.353907"
+         x="122.91674"
+         id="tspan1521"
+         sodipodi:role="line">Artifact</tspan></text>
+    <g
+       id="g1582"
+       transform="translate(-0.13202044,-25.066169)">
+      <path
+         transform="scale(1,-1)"
+         inkscape:transform-center-y="0.017083562"
+         inkscape:transform-center-x="1.061015e-06"
+         d="m 107.94575,-47.034312 0.63711,-0.31327 -0.10106,0.702732 0.49481,0.509122 -0.69957,0.121043 -0.33129,0.627924 -0.3313,-0.627924 -0.69957,-0.121043 0.49482,-0.509122 -0.10106,-0.702732 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="false"
+         sodipodi:arg2="-0.94247777"
+         sodipodi:arg1="-1.5707963"
+         sodipodi:r2="1.0839154"
+         sodipodi:r1="0.563636"
+         sodipodi:cy="-46.470676"
+         sodipodi:cx="107.94575"
+         sodipodi:sides="5"
+         id="path1576"
+         style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         sodipodi:type="star" />
+      <path
+         sodipodi:type="star"
+         style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="path1578"
+         sodipodi:sides="5"
+         sodipodi:cx="111.0658"
+         sodipodi:cy="-46.470676"
+         sodipodi:r1="0.563636"
+         sodipodi:r2="1.0839154"
+         sodipodi:arg1="-1.5707963"
+         sodipodi:arg2="-0.94247777"
+         inkscape:flatsided="false"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m 111.0658,-47.034312 0.63711,-0.31327 -0.10106,0.702732 0.49482,0.509122 -0.69957,0.121043 -0.3313,0.627924 -0.33129,-0.627924 -0.69957,-0.121043 0.49481,-0.509122 -0.10106,-0.702732 z"
+         inkscape:transform-center-x="1.061015e-06"
+         inkscape:transform-center-y="0.017083562"
+         transform="scale(1,-1)" />
+    </g>
+    <g
+       id="g1602"
+       transform="translate(-13.955699,-25.13229)">
+      <g
+         id="g1588"
+         transform="translate(32.263653)">
+        <path
+           transform="scale(1,-1)"
+           inkscape:transform-center-y="0.017083562"
+           inkscape:transform-center-x="1.061015e-06"
+           d="m 107.94575,-47.034312 0.63711,-0.31327 -0.10106,0.702732 0.49481,0.509122 -0.69957,0.121043 -0.33129,0.627924 -0.3313,-0.627924 -0.69957,-0.121043 0.49482,-0.509122 -0.10106,-0.702732 z"
+           inkscape:randomized="0"
+           inkscape:rounded="0"
+           inkscape:flatsided="false"
+           sodipodi:arg2="-0.94247777"
+           sodipodi:arg1="-1.5707963"
+           sodipodi:r2="1.0839154"
+           sodipodi:r1="0.563636"
+           sodipodi:cy="-46.470676"
+           sodipodi:cx="107.94575"
+           sodipodi:sides="5"
+           id="path1584"
+           style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+           sodipodi:type="star" />
+        <path
+           sodipodi:type="star"
+           style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+           id="path1586"
+           sodipodi:sides="5"
+           sodipodi:cx="111.0658"
+           sodipodi:cy="-46.470676"
+           sodipodi:r1="0.563636"
+           sodipodi:r2="1.0839154"
+           sodipodi:arg1="-1.5707963"
+           sodipodi:arg2="-0.94247777"
+           inkscape:flatsided="false"
+           inkscape:rounded="0"
+           inkscape:randomized="0"
+           d="m 111.0658,-47.034312 0.63711,-0.31327 -0.10106,0.702732 0.49482,0.509122 -0.69957,0.121043 -0.3313,0.627924 -0.33129,-0.627924 -0.69957,-0.121043 0.49481,-0.509122 -0.10106,-0.702732 z"
+           inkscape:transform-center-x="1.061015e-06"
+           inkscape:transform-center-y="0.017083562"
+           transform="scale(1,-1)" />
+      </g>
+      <path
+         sodipodi:type="star"
+         style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="path1592"
+         sodipodi:sides="5"
+         sodipodi:cx="146.44951"
+         sodipodi:cy="-46.470676"
+         sodipodi:r1="0.563636"
+         sodipodi:r2="1.0839154"
+         sodipodi:arg1="-1.5707963"
+         sodipodi:arg2="-0.94247777"
+         inkscape:flatsided="false"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m 146.44951,-47.034312 0.63711,-0.31327 -0.10106,0.702732 0.49481,0.509122 -0.69956,0.121043 -0.3313,0.627924 -0.3313,-0.627924 -0.69957,-0.121043 0.49482,-0.509122 -0.10106,-0.702732 z"
+         inkscape:transform-center-x="1.061015e-06"
+         inkscape:transform-center-y="0.017083562"
+         transform="scale(1,-1)" />
+    </g>
+    <path
+       style="opacity:1;vector-effect:none;fill:url(#linearGradient1934);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:10.01574802;stroke-opacity:1;paint-order:normal"
+       d="m 83.373879,33.431659 c -0.831,0 -1.50017,0.669169 -1.50017,1.500167 v 12.655042 a 22.500002,22.500002 0 0 0 7.50032,1.315682 22.500002,22.500002 0 0 0 7.4998,-1.312066 V 34.931826 c 0,-0.830998 -0.66916,-1.500167 -1.50016,-1.500167 z"
+       id="path1852"
+       inkscape:connector-curvature="0" />
+    <text
+       id="text1858"
+       y="37.784222"
+       x="102.97064"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.78558969px;line-height:1;font-family:'TeX Gyre Adventor';-inkscape-font-specification:'TeX Gyre Adventor Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;opacity:1;vector-effect:none;fill:#fafafa;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:10.01574802;stroke-opacity:1;paint-order:normal"
+       xml:space="preserve"><tspan
+         id="tspan1856"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.78558969px;line-height:1;font-family:'TeX Gyre Adventor';-inkscape-font-specification:'TeX Gyre Adventor Bold';text-align:start;text-anchor:start;vector-effect:none;fill:#fafafa;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:10.01574802;stroke-opacity:1;paint-order:normal"
+         y="37.784222"
+         x="102.97064"
+         sodipodi:role="line">VMCAI</tspan></text>
+    <text
+       id="text1862"
+       y="44.013443"
+       x="102.76721"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.57715631px;line-height:1;font-family:'TeX Gyre Adventor';-inkscape-font-specification:'TeX Gyre Adventor Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#fafafa;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:10.01574802;stroke-opacity:1;paint-order:normal"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.57715631px;line-height:1;font-family:'TeX Gyre Adventor';-inkscape-font-specification:'TeX Gyre Adventor Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;fill:#fafafa;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:10.01574802;stroke-opacity:1;paint-order:normal"
+         y="44.013443"
+         x="102.76721"
+         id="tspan1860"
+         sodipodi:role="line">Evaluation</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.7014389px;line-height:1;font-family:'TeX Gyre Adventor';-inkscape-font-specification:'TeX Gyre Adventor Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#fafafa;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:10.01574802;stroke-opacity:1;paint-order:normal"
+       x="102.91657"
+       y="41.353928"
+       id="text1866"><tspan
+         sodipodi:role="line"
+         id="tspan1864"
+         x="102.91657"
+         y="41.353928"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.7014389px;line-height:1;font-family:'TeX Gyre Adventor';-inkscape-font-specification:'TeX Gyre Adventor Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;fill:#fafafa;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:10.01574802;stroke-opacity:1;paint-order:normal">Artifact</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.57527781px;line-height:1;font-family:'TeX Gyre Adventor';-inkscape-font-specification:'TeX Gyre Adventor Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#206b00;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="109.35438"
+       y="51.896423"
+       id="text1870"><tspan
+         sodipodi:role="line"
+         id="tspan1868"
+         x="109.35438"
+         y="51.896423"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.57527781px;line-height:1;font-family:'TeX Gyre Adventor';-inkscape-font-specification:'TeX Gyre Adventor Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;vector-effect:none;fill:#206b00;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1">Functional</tspan></text>
+    <path
+       sodipodi:type="star"
+       style="opacity:1;vector-effect:none;fill:url(#linearGradient1028);fill-opacity:1;fill-rule:evenodd;stroke:url(#linearGradient2128);stroke-width:0.30000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:10.01574802;stroke-opacity:1;paint-order:normal"
+       id="path1872"
+       sodipodi:sides="5"
+       sodipodi:cx="89.373764"
+       sodipodi:cy="-46.362433"
+       sodipodi:r1="0.69445592"
+       sodipodi:r2="1.335492"
+       sodipodi:arg1="-1.5707963"
+       sodipodi:arg2="-0.94247777"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 89.373764,-47.05689 0.784983,-0.38598 -0.124516,0.865837 0.609662,0.627288 -0.861938,0.149137 -0.408191,0.773666 -0.408191,-0.773666 -0.861937,-0.149137 0.609661,-0.627288 -0.124515,-0.865837 z"
+       inkscape:transform-center-x="1.061015e-06"
+       inkscape:transform-center-y="0.017083562"
+       transform="scale(1,-1)" />
+    <text
+       id="text1876"
+       y="51.896397"
+       x="89.406075"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.57527781px;line-height:1;font-family:'TeX Gyre Adventor';-inkscape-font-specification:'TeX Gyre Adventor Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0.14552084px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#002e99;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.57527781px;line-height:1;font-family:'TeX Gyre Adventor';-inkscape-font-specification:'TeX Gyre Adventor Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0.14552084px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;vector-effect:none;fill:#002e99;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         y="51.896397"
+         x="89.478836"
+         id="tspan1874"
+         sodipodi:role="line">Available</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.57527781px;line-height:1;font-family:'TeX Gyre Adventor';-inkscape-font-specification:'TeX Gyre Adventor Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0.14552084px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#ad5f00;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="129.32736"
+       y="51.860371"
+       id="text1880"><tspan
+         sodipodi:role="line"
+         id="tspan1878"
+         x="129.40012"
+         y="51.860371"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.57527781px;line-height:1;font-family:'TeX Gyre Adventor';-inkscape-font-specification:'TeX Gyre Adventor Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0.14552084px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;vector-effect:none;fill:#ad5f00;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1">Reusable</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.78558969px;line-height:1;font-family:'TeX Gyre Adventor';-inkscape-font-specification:'TeX Gyre Adventor Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#fafafa;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="82.970825"
+       y="37.784199"
+       id="text1884"><tspan
+         sodipodi:role="line"
+         x="82.970825"
+         y="37.784199"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.78558969px;line-height:1;font-family:'TeX Gyre Adventor';-inkscape-font-specification:'TeX Gyre Adventor Bold';text-align:start;text-anchor:start;fill:#fafafa;stroke-width:0.26458332"
+         id="tspan1882">VMCAI</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.57715631px;line-height:1;font-family:'TeX Gyre Adventor';-inkscape-font-specification:'TeX Gyre Adventor Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#fafafa;fill-opacity:1;stroke:none;stroke-width:0.26458329;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="82.767395"
+       y="44.01342"
+       id="text1888"><tspan
+         sodipodi:role="line"
+         id="tspan1886"
+         x="82.767395"
+         y="44.01342"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.57715631px;line-height:1;font-family:'TeX Gyre Adventor';-inkscape-font-specification:'TeX Gyre Adventor Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;fill:#fafafa;fill-opacity:1;stroke:none;stroke-width:0.26458329;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1">Evaluation</tspan></text>
+    <text
+       id="text1892"
+       y="41.353905"
+       x="82.916748"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.7014389px;line-height:1;font-family:'TeX Gyre Adventor';-inkscape-font-specification:'TeX Gyre Adventor Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#fafafa;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.7014389px;line-height:1;font-family:'TeX Gyre Adventor';-inkscape-font-specification:'TeX Gyre Adventor Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;fill:#fafafa;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         y="41.353905"
+         x="82.916748"
+         id="tspan1890"
+         sodipodi:role="line">Artifact</tspan></text>
+    <text
+       id="text1896"
+       y="37.784225"
+       x="122.97064"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.78558969px;line-height:1;font-family:'TeX Gyre Adventor';-inkscape-font-specification:'TeX Gyre Adventor Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         id="tspan1894"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.78558969px;line-height:1;font-family:'TeX Gyre Adventor';-inkscape-font-specification:'TeX Gyre Adventor Bold';text-align:start;text-anchor:start;fill:#ffffff;stroke-width:0.26458332"
+         y="37.784225"
+         x="122.97064"
+         sodipodi:role="line">VMCAI</tspan></text>
+    <text
+       id="text1900"
+       y="44.013447"
+       x="122.76721"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.57715631px;line-height:1;font-family:'TeX Gyre Adventor';-inkscape-font-specification:'TeX Gyre Adventor Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458329;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.57715631px;line-height:1;font-family:'TeX Gyre Adventor';-inkscape-font-specification:'TeX Gyre Adventor Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458329;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         y="44.013447"
+         x="122.76721"
+         id="tspan1898"
+         sodipodi:role="line">Evaluation</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.7014389px;line-height:1;font-family:'TeX Gyre Adventor';-inkscape-font-specification:'TeX Gyre Adventor Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="122.91656"
+       y="41.353931"
+       id="text1904"><tspan
+         sodipodi:role="line"
+         id="tspan1902"
+         x="122.91656"
+         y="41.353931"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.7014389px;line-height:1;font-family:'TeX Gyre Adventor';-inkscape-font-specification:'TeX Gyre Adventor Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1">Artifact</tspan></text>
+    <path
+       transform="scale(1,-1)"
+       inkscape:transform-center-y="0.017083562"
+       inkscape:transform-center-x="1.061015e-06"
+       d="m 107.67323,-46.990724 0.78499,-0.38598 -0.12452,0.865837 0.60966,0.627288 -0.86194,0.149137 -0.40819,0.773666 -0.40819,-0.773666 -0.86194,-0.149137 0.60967,-0.627288 -0.12452,-0.865837 z"
+       inkscape:randomized="0"
+       inkscape:rounded="0"
+       inkscape:flatsided="false"
+       sodipodi:arg2="-0.94247777"
+       sodipodi:arg1="-1.5707963"
+       sodipodi:r2="1.335492"
+       sodipodi:r1="0.69445592"
+       sodipodi:cy="-46.296267"
+       sodipodi:cx="107.67323"
+       sodipodi:sides="5"
+       id="path1906"
+       style="opacity:1;vector-effect:none;fill:url(#linearGradient1042);fill-opacity:1;fill-rule:evenodd;stroke:url(#linearGradient2188);stroke-width:0.30000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:10.01574802;stroke-opacity:1;paint-order:normal"
+       sodipodi:type="star" />
+    <path
+       sodipodi:type="star"
+       style="opacity:1;vector-effect:none;fill:url(#linearGradient1050);fill-opacity:1;fill-rule:evenodd;stroke:url(#linearGradient2219);stroke-width:0.30000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:10.01574802;stroke-opacity:1;paint-order:normal"
+       id="path1908"
+       sodipodi:sides="5"
+       sodipodi:cx="111.07394"
+       sodipodi:cy="-46.296267"
+       sodipodi:r1="0.69445592"
+       sodipodi:r2="1.335492"
+       sodipodi:arg1="-1.5707963"
+       sodipodi:arg2="-0.94247777"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 111.07394,-46.990724 0.78498,-0.38598 -0.12452,0.865837 0.60966,0.627288 -0.86193,0.149137 -0.40819,0.773666 -0.40819,-0.773666 -0.86194,-0.149137 0.60966,-0.627288 -0.12452,-0.865837 z"
+       inkscape:transform-center-x="1.061015e-06"
+       inkscape:transform-center-y="0.017083562"
+       transform="scale(1,-1)" />
+    <path
+       sodipodi:type="star"
+       style="opacity:1;vector-effect:none;fill:url(#linearGradient1058);fill-opacity:1;fill-rule:evenodd;stroke:url(#linearGradient2317);stroke-width:0.30000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:10.01574802;stroke-opacity:1;paint-order:normal"
+       id="path1912"
+       sodipodi:sides="5"
+       sodipodi:cx="126.08983"
+       sodipodi:cy="-46.230143"
+       sodipodi:r1="0.69445592"
+       sodipodi:r2="1.335492"
+       sodipodi:arg1="-1.5707963"
+       sodipodi:arg2="-0.94247777"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 126.08983,-46.9246 0.78498,-0.38598 -0.12451,0.865837 0.60966,0.627288 -0.86194,0.149137 -0.40819,0.773666 -0.40819,-0.773666 -0.86194,-0.149137 0.60966,-0.627288 -0.12451,-0.865837 z"
+       inkscape:transform-center-x="1.061015e-06"
+       inkscape:transform-center-y="0.017083562"
+       transform="scale(1,-1)" />
+    <path
+       transform="scale(1,-1)"
+       inkscape:transform-center-y="0.017083562"
+       inkscape:transform-center-x="1.061015e-06"
+       d="m 129.3736,-46.9246 0.78498,-0.38598 -0.12452,0.865837 0.60966,0.627288 -0.86193,0.149137 -0.40819,0.773666 -0.4082,-0.773666 -0.86193,-0.149137 0.60966,-0.627288 -0.12452,-0.865837 z"
+       inkscape:randomized="0"
+       inkscape:rounded="0"
+       inkscape:flatsided="false"
+       sodipodi:arg2="-0.94247777"
+       sodipodi:arg1="-1.5707963"
+       sodipodi:r2="1.335492"
+       sodipodi:r1="0.69445592"
+       sodipodi:cy="-46.230143"
+       sodipodi:cx="129.3736"
+       sodipodi:sides="5"
+       id="path2338"
+       style="opacity:1;vector-effect:none;fill:url(#linearGradient1066);fill-opacity:1;fill-rule:evenodd;stroke:url(#linearGradient2340);stroke-width:0.30000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:10.01574802;stroke-opacity:1;paint-order:normal"
+       sodipodi:type="star" />
+    <path
+       sodipodi:type="star"
+       style="opacity:1;vector-effect:none;fill:url(#linearGradient1074);fill-opacity:1;fill-rule:evenodd;stroke:url(#linearGradient2344);stroke-width:0.30000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:10.01574802;stroke-opacity:1;paint-order:normal"
+       id="path2342"
+       sodipodi:sides="5"
+       sodipodi:cx="132.65733"
+       sodipodi:cy="-46.230143"
+       sodipodi:r1="0.69445592"
+       sodipodi:r2="1.335492"
+       sodipodi:arg1="-1.5707963"
+       sodipodi:arg2="-0.94247777"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 132.65733,-46.9246 0.78499,-0.38598 -0.12452,0.865837 0.60966,0.627288 -0.86194,0.149137 -0.40819,0.773666 -0.40819,-0.773666 -0.86194,-0.149137 0.60967,-0.627288 -0.12452,-0.865837 z"
+       inkscape:transform-center-x="1.061015e-06"
+       inkscape:transform-center-y="0.017083562"
+       transform="scale(1,-1)" />
+    <rect
+       ry="1.5"
+       rx="1.5"
+       y="33.43166"
+       x="81.873833"
+       height="20"
+       width="15"
+       id="rect1922"
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:url(#linearGradient1974);stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:10.01574802;stroke-opacity:1;paint-order:normal" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:url(#linearGradient2235);stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:10.01574802;stroke-opacity:1;paint-order:normal"
+       id="rect1924"
+       width="15"
+       height="20"
+       x="101.8737"
+       y="33.431656"
+       rx="1.5"
+       ry="1.5" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:url(#linearGradient2288);stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:10.01574802;stroke-opacity:1;paint-order:normal"
+       id="rect1926"
+       width="15"
+       height="20"
+       x="121.87372"
+       y="33.43166"
+       rx="1.5"
+       ry="1.5" />
+  </g>
+</svg>
