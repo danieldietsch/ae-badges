@@ -15,6 +15,8 @@ To put a badge on a paper written in LaTeX embed the PDF files as graphics:
 \end{document}
 ```
 
+The badges also work when printed in grayscale.
+
 ![All badges in color, and black and white](https://raw.githubusercontent.com/schaetzc/vmcai-badges/master/preview.png)
 
   [1]: https://popl20.sigplan.org/home/VMCAI-2020#Call-for-Artifacts
