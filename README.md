@@ -9,6 +9,7 @@ The badges also work when printed in grayscale. Here is an example for VMCAI.
 ![All badges in color, and black and white as PNG](preview.png)
 
 ## Usage for organizers
+``TODO`` (explain how to change the text, how to generate the .pdfs with Inkscape, link to [source description](src/about-the-sources.md))
 
 ## Usage for authors
 Download the appropriate `.pdf`s from this repository.
@@ -32,7 +33,7 @@ You can start with the following Latex snippet:
 The exact positioning depends on your author list, your title size, and the number of lines you use for your affiliations.
 
 Here are some examples
-``TODO``
+``TODO`` (Latex snippets for LNCS with different placements, different abstract / author / affiliation sizes, links to DOI for available)
 
 ## Contributing
 If you have your own badges and would like to contribute them to other conferences, feel free to file a pull request so that we can add them here.
