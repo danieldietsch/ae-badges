@@ -1,4 +1,4 @@
-# About the Source File
+# About the sources
 
 The badges were drawn with [Inkscape 0.92.4](https://inkscape.org/).
 The SVG file in this directory is the original Inkscape-svg (svg with Inkscape's metadata).
