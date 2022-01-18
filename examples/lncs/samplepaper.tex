@@ -1,0 +1,46 @@
+\documentclass[runningheads]{llncs}
+\usepackage[T1]{fontenc}
+\usepackage{showframe}                      % print page margins
+\usepackage{blindtext}                      % generate blind texts
+\usepackage{graphicx}                       % necessary for inserting .pdfs 
+\usepackage{hyperref}                       % "available" badge is a link to the actual DOI 
+\usepackage[firstpage]{draftwatermark}      % free badge placement
+
+\begin{document}
+%
+\title{Contribution Title\thanks{Supported by organization x.}}
+\author{%
+First Author\inst{1}\orcidID{0000-1111-2222-3333} \and
+Second Author\inst{2,3}\orcidID{1111-2222-3333-4444} \and
+Third Author\inst{3}\orcidID{2222--3333-4444-5555}}
+
+\authorrunning{F. Author et al.}
+
+\institute{%
+Princeton University, Princeton NJ 08544, USA \and
+%
+Springer Heidelberg, Heidelberg, Germany\\
+\email{lncs@springer.com} \and
+%
+ABC Institute, \\
+Rupert-Karls-University Heidelberg, Heidelberg, Germany\\
+\email{\{abc,lncs\}@uni-heidelberg.de}}
+
+\maketitle
+
+\SetWatermarkAngle{0}
+\SetWatermarkText{\raisebox{12.5cm}{%
+  \href{https://github.com/danieldietsch/ae-badges}{\includegraphics{../../cav/1-available}}% 
+  \hspace{9cm}%
+  \includegraphics{../../cav/2-functional}%
+}}
+
+\begin{abstract}
+\blindtext
+
+\keywords{First keyword  \and Second keyword \and Another keyword.}
+\end{abstract}
+
+\section{First Section}
+\blindtext[5]
+\end{document}
