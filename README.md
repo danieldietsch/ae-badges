@@ -5,7 +5,7 @@ This repository tries to solve this problem by providing badges that can be used
 
 The badges also work when printed in grayscale. Here is an example for VMCAI.
 
-![All badges in color, and black and white as PNG](preview.png)
+![All badges in color, and black and white as PNG](examples/preview.png)
 
 
 ## Usage for organizers
