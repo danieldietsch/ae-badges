@@ -9,7 +9,7 @@ The badges also work when printed in grayscale. Here is an example for VMCAI.
 
 
 ## Usage for organizers
-If you want to change the label on the badges, just open one of the [source](src/about-the-sources.md)) `.svg` files with Inkscape (or a similar tool of your choice), change the text, and export each badge as a `.pdf`.
+If you want to change the label on the badges, just open one of the [source](src/about-the-sources.md) `.svg` files with Inkscape (or a similar tool of your choice), change the text, and export each badge as a `.pdf`.
 
 Ensure that you have the necessary font ([Tex Gyre Adventor](http://www.gust.org.pl/projects/e-foundry/tex-gyre/adventor)) on your system and that it is embedded in the exported `.pdf`.
 
