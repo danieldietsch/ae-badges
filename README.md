@@ -1,17 +1,13 @@
 # Badges for artifact evaluations of computer science conferences
 Many conferences in computer science started to establish an artifact review process that awards badges to artifacts that pass various review criteria. Although the process is individual, many orient their criteria on [ACM's guidelines](https://www.acm.org/publications/policies/artifact-review-badging) for reviewing artifacts. ACM provides three dimensions with five different badges. Unfortunately, the badges are quite ACM-centric and do not have any kind of license attached. Hence, if you chair an artifact evaluation committee, you are often presented with the issue: where do you get badges for _your_ conference?
 
-This repository tries to solve this problem by providing badges that can be used by anyone. The badges are licensed under [CC0](https://creativecommons.org/publicdomain/zero/1.0/) and originally published for [VMCAI 2020 by Claus Schätzle](https://github.com/schaetzc/vmcai-badges). No attribution is required.
-
-The badges also work when printed in grayscale. Here is an example for VMCAI.
-
-![All badges in color, and black and white as PNG](examples/preview.png)
+This repository tries to solve this problem by providing badges that can be used by anyone. The badges are licensed under [CC0](https://creativecommons.org/publicdomain/zero/1.0/). No attribution is required.
 
 
 ## Usage for organizers
 If you want to change the label on the badges, just open one of the [source](src/about-the-sources.md) `.svg` files with Inkscape (or a similar tool of your choice), change the text, and export each badge as a `.pdf`.
 
-Ensure that you have the necessary font ([Tex Gyre Adventor](http://www.gust.org.pl/projects/e-foundry/tex-gyre/adventor)) on your system and that it is embedded in the exported `.pdf`.
+Ensure that you have the necessary font (see [About the sources](src/about-the-sources.md)) on your system and that it is embedded in the exported `.pdf`.
 
 
 ## Usage for authors
@@ -33,7 +29,7 @@ You can start with the following Latex snippet:
 
 \SetWatermarkAngle{0}
 \SetWatermarkText{\raisebox{12.5cm}{%
-  \href{https://github.com/danieldietsch/ae-badges}{\includegraphics{cav/1-available}}% 
+  \href{https://github.com/danieldietsch/ae-badges}{\includegraphics{vmcai/1-available}}% 
   \hspace{9cm}%
   \includegraphics{cav/2-functional}%
 }}
@@ -49,6 +45,18 @@ If you have your own badges and would like to contribute them to other conferenc
 
 
 ## Conference-specific badges
-* [CAV 2022 badges](cav/) ([Call for Artifacts](http://i-cav.org/2022/artifact-evaluation/))
-* [VMCAI 2021 badges](vmcai/) ([Call for Artifacts](https://popl20.sigplan.org/home/VMCAI-2021#Call-for-Artifacts))
-* [VMCAI 2020 badges](vmcai/) ([Call for Artifacts](https://popl20.sigplan.org/home/VMCAI-2020#Call-for-Artifacts))
+### CAV
+* [CAV 2021 badges](pdf/cav/) ([Call for Artifacts](http://i-cav.org/2022/artifact-evaluation/))  
+
+![cav-badge-available](examples/preview/cav/aec-badge_a.png) ![cav-badge-functional](examples/preview/cav/aec-badge_f.png) ![cav-badge-functional-available](examples/preview/cav/aec-badge_f_a.png) ![cav-badge-functional-available-reusable](examples/preview/cav/aec-badge_f_a_r.png) ![cav-badge-functional-reusable](examples/preview/cav/aec-badge_f_r.png)
+
+### VMCAI
+These badges were originally published for [VMCAI 2020 by Claus Schätzle](https://github.com/schaetzc/vmcai-badges).
+* [VMCAI 2021 badges](pdf/vmcai/) ([Call for Artifacts](https://popl20.sigplan.org/home/VMCAI-2021#Call-for-Artifacts))
+* [VMCAI 2020 badges](pdf/vmcai/) ([Call for Artifacts](https://popl20.sigplan.org/home/VMCAI-2020#Call-for-Artifacts))  
+
+
+![vmcai-badge-available](examples/preview/vmcai/1-available.png) ![vmcai-badge-functional](examples/preview/vmcai/2-functional.png) ![vmcai-badge-reusable](examples/preview/vmcai/3-reusable.png)  
+
+The badges also work when printed in grayscale:  
+![vmcai-badge-available-gray](examples/preview/vmcai/1-available.gray.png) ![vmcai-badge-functional-gray](examples/preview/vmcai/2-functional.gray.png) ![vmcai-badge-reusable-gray](examples/preview/vmcai/3-reusable.gray.png)

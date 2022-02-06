@@ -1,8 +1,9 @@
 # About the sources
+This directory contains the badge source files as SVG.
 
 ## vmcai, cav-alt
-The badges were drawn with [Inkscape 0.92.4](https://inkscape.org/).
-The SVG file in this directory is the original Inkscape-svg (svg with Inkscape's metadata).
+These badges were drawn with [Inkscape 0.92.4](https://inkscape.org/).
+The SVG files in this directory are the original Inkscape-svgs (svg with Inkscape's metadata).
 The font is [Tex Gyre Adventor](http://www.gust.org.pl/projects/e-foundry/tex-gyre/adventor).
 The colors are from the color palette of [elementary OS](https://elementary.io/brand).
 
