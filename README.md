@@ -46,7 +46,12 @@ If you have your own badges and would like to contribute them to other conferenc
 
 ## Conference-specific badges
 ### CAV
-* [CAV 2021 badges](pdf/cav/) ([Call for Artifacts](http://i-cav.org/2022/artifact-evaluation/))  
+* [CAV 2022 badges](pdf/cav-alt/) ([Call for Artifacts](http://i-cav.org/2022/artifact-evaluation/))  
+
+![cav-badge-available](examples/preview/cav-alt/1-available.png) ![cav-badge-functional](examples/preview/cav-alt/2-functional.png) ![cav-badge-reusable](examples/preview/cav-alt/3-reusable.png)
+
+
+* [CAV 2021 badges](pdf/cav/) ([Call for Artifacts](http://i-cav.org/2021/artifact-evaluation/))  
 
 ![cav-badge-available](examples/preview/cav/aec-badge_a.png) ![cav-badge-functional](examples/preview/cav/aec-badge_f.png) ![cav-badge-functional-available](examples/preview/cav/aec-badge_f_a.png) ![cav-badge-functional-available-reusable](examples/preview/cav/aec-badge_f_a_r.png) ![cav-badge-functional-reusable](examples/preview/cav/aec-badge_f_r.png)
 
