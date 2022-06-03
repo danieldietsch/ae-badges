@@ -29,9 +29,10 @@ You can start with the following Latex snippet:
 
 \SetWatermarkAngle{0}
 \SetWatermarkText{\raisebox{12.5cm}{%
-  \href{https://github.com/danieldietsch/ae-badges}{\includegraphics{vmcai/1-available}}% 
+  \hspace{0.1cm}%
+  \href{https://github.com/danieldietsch/ae-badges}{\includegraphics{1-available}}%
   \hspace{9cm}%
-  \includegraphics{cav/2-functional}%
+  \includegraphics{2-functional}%
 }}
 ```
 
