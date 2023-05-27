@@ -1,4 +1,4 @@
-% LLNCS DOCUMENT CLASS -- version 2.21 (12-Jan-2022)
+% LLNCS DOCUMENT CLASS -- version 2.22 (05-Sep-2022)
 % Springer Verlag LaTeX2e support for Lecture Notes in Computer Science
 %
 %%
@@ -19,7 +19,7 @@
 %%   Right brace   \}     Tilde         \~}
 %%
 \NeedsTeXFormat{LaTeX2e}[1995/12/01]
-\ProvidesClass{llncs}[2022/01/12 v2.21
+\ProvidesClass{llncs}[2022/09/05 v2.22
 ^^J LaTeX document class for Lecture Notes in Computer Science]
 % Options
 \let\if@envcntreset\iffalse
@@ -374,7 +374,7 @@ You should not use \verb|\subparagraph| with this class.\vskip0.5cm}
 \let\footnotesize\small
 
 \if@custvec
-\def\vec#1{\mathchoice{\mbox{\boldmath$\displaystyle#1$}}
+\DeclareRobustCommand\vec[1]{\mathchoice{\mbox{\boldmath$\displaystyle#1$}}
 {\mbox{\boldmath$\textstyle#1$}}
 {\mbox{\boldmath$\scriptstyle#1$}}
 {\mbox{\boldmath$\scriptscriptstyle#1$}}}
@@ -890,7 +890,7 @@ to0pt{\kern0.55\wd0\vrule height0.45\ht0\hss}\box0}}}}
 \par\addvspace\baselineskip
 \noindent\keywordname\enspace\ignorespaces#1}%
 \@ifpackageloaded{hyperref}{%
-\def\doi#1{\href{https://doi.org/\detokenize{#1}}{\url{https://doi.org/\detokenize{#1}}}}}{
+\def\doi#1{\href{https://doi.org/\detokenize{#1}}{\url{https://doi.org/#1}}}}{
 \def\doi#1{https://doi.org/\detokenize{#1}}}
 }
 \def\homedir{\~{ }}
