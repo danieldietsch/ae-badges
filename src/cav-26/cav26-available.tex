@@ -1,0 +1,61 @@
+\documentclass[tikz,border=6pt]{standalone}
+\usepackage{tikz}
+\usetikzlibrary{decorations,decorations.text,calc,shapes.geometric}
+
+\begin{document}
+\begin{tikzpicture}[scale=1]
+  % Colors
+  \definecolor{acmgreen}{RGB}{34,139,34} % forest green background
+  \definecolor{acmwhite}{RGB}{255,255,255}
+
+  % Parameters
+  \def\nspikes{12}
+  \def\Ro{5.2}   
+  \def\Ri{4.5}   
+  \def\ringA{3.9}  
+  \def\ringB{2.5}  
+  \def\bandOffset{0.25} 
+
+  % Radius for curved labels
+  \pgfmathsetmacro{\labelRadius}{\ringB + 0.5*(\ringA-\ringB) - \bandOffset}
+
+  % Outer spiky seal background
+  \fill[acmgreen] (0:\Ro)
+    \foreach \i in {1,...,\nspikes} {
+      -- ({\i*360/\nspikes - 360/\nspikes/2}:\Ri)
+      -- ({\i*360/\nspikes}:\Ro)
+    } -- cycle;
+
+  % Double white rings
+  \draw[line width=1.6pt, acmwhite] (0,0) circle[radius=\ringA];
+  \draw[line width=1.6pt, acmwhite] (0,0) circle[radius=\ringB];
+
+  % Mask center area (background forest green)
+  \fill[acmgreen] (0,0) circle[radius=\ringB-0.35];
+
+  % === Curved Texts (Available only, centered at top) ===
+  % To center at top, pick an arc symmetric around 90°
+  \draw[
+    decorate,
+    decoration={
+      text along path,
+      text={|\sffamily\bfseries\fontsize{56pt}{56pt}\selectfont\color{acmwhite}|Available},
+      text align={center}
+    }
+  ] (186:\labelRadius) arc (186:116:\labelRadius); % midpoint at 90°
+
+  % === Center Text (three lines) ===
+  \node[
+    text=acmwhite,
+    font=\sffamily\bfseries,
+    align=center,
+    scale=1.2,
+    transform shape
+  ] at (0,0) {
+    \fontsize{48pt}{48pt}\selectfont CAV\\[8pt]
+    \fontsize{20pt}{34pt}\selectfont Artifact\\[4pt]
+    \fontsize{20pt}{34pt}\selectfont Evaluated
+  };
+
+\end{tikzpicture}
+\end{document}
