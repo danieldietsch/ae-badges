@@ -1,0 +1,70 @@
+\documentclass[tikz,border=6pt]{standalone}
+\usepackage{tikz}
+\usetikzlibrary{decorations,decorations.text,calc,shapes.geometric}
+
+\begin{document}
+\begin{tikzpicture}[scale=1]
+  % Colors
+  \definecolor{acmblue}{RGB}{0,102,204} % blue background
+  \definecolor{acmwhite}{RGB}{255,255,255}
+
+  % Parameters
+  \def\nspikes{12}
+  \def\Ro{5.2}   
+  \def\Ri{4.5}   
+  \def\ringA{3.9}  
+  \def\ringB{2.5}  % smaller inner ring
+  \def\bandOffset{0.25} 
+
+  % Radius for curved labels
+  \pgfmathsetmacro{\labelRadius}{\ringB + 0.5*(\ringA-\ringB) - \bandOffset}
+
+  % Outer spiky seal background
+  \fill[acmblue] (0:\Ro)
+    \foreach \i in {1,...,\nspikes} {
+      -- ({\i*360/\nspikes - 360/\nspikes/2}:\Ri)
+      -- ({\i*360/\nspikes}:\Ro)
+    } -- cycle;
+
+  % Double white rings
+  \draw[line width=1.6pt, acmwhite] (0,0) circle[radius=\ringA];
+  \draw[line width=1.6pt, acmwhite] (0,0) circle[radius=\ringB];
+
+  % Mask center area (background blue)
+%  \fill[acmblue] (0,0) circle[radius=\ringB-0.35];
+
+
+  % === Curved Texts (larger: 56pt) ===
+  % Available (shifted further counter-clockwise)
+  \draw[
+    decorate,
+    decoration={
+      text along path,
+      text={|\sffamily\bfseries\fontsize{56pt}{56pt}\selectfont\color{acmwhite}|Available},
+      text align={center}
+    }
+  ] (186:\labelRadius) arc (186:116:\labelRadius); % 6° CCW shift
+
+  % Functional (replacing Reusable, arc extended to fit full word)
+  \draw[
+    decorate,
+    decoration={
+      text along path,
+      text={|\sffamily\bfseries\fontsize{56pt}{56pt}\selectfont\color{acmwhite}|Functional},
+      text align={center}
+    }
+  ] (60:\labelRadius) arc (60:-20:\labelRadius);
+
+  % === Center Text (three lines) ===
+  \node[
+    text=acmwhite,
+    font=\sffamily\bfseries,
+    align=center
+  ] at (0,0) {
+    \fontsize{28pt}{28pt}\selectfont VMCAI'26\\[8pt]
+    \fontsize{16pt}{16pt}\selectfont Artifact\\[2pt]
+    \fontsize{16pt}{16pt}\selectfont Evaluated
+  };
+
+\end{tikzpicture}
+\end{document}

@@ -1,0 +1,2 @@
+# VMCAI badges
+These badges are inspired by the [ACM badges](https://www.acm.org/publications/policies/artifact-review-badging), but the design and TikZ source code were created from scratch with the help of ChatGPT.
