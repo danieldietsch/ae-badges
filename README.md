@@ -47,20 +47,26 @@ If you have your own badges and would like to contribute them to other conferenc
 
 ## Conference-specific badges
 ### CAV
+* [CAV 2026 badges](pdf/cav-26/) ([Call for Artifacts](https://conferences.i-cav.org/2026/artifacts/))
+
+![cav-badge-available](examples/preview/cav-26/cav26-available.png) ![cav-badge-functional](examples/preview/cav-26/cav26-functional.png) ![cav-badge-reusable](examples/preview/cav-26/cav26-reusable.png)
+
 * [CAV 2022 badges](pdf/cav-alt/) ([Call for Artifacts](http://i-cav.org/2022/artifact-evaluation/))  
 
 ![cav-badge-available](examples/preview/cav-alt/1-available.png) ![cav-badge-functional](examples/preview/cav-alt/2-functional.png) ![cav-badge-reusable](examples/preview/cav-alt/3-reusable.png)
-
 
 * [CAV 2021 badges](pdf/cav/) ([Call for Artifacts](http://i-cav.org/2021/artifact-evaluation/))  
 
 ![cav-badge-available](examples/preview/cav/aec-badge_a.png) ![cav-badge-functional](examples/preview/cav/aec-badge_f.png) ![cav-badge-functional-available](examples/preview/cav/aec-badge_f_a.png) ![cav-badge-functional-available-reusable](examples/preview/cav/aec-badge_f_a_r.png) ![cav-badge-functional-reusable](examples/preview/cav/aec-badge_f_r.png)
 
 ### VMCAI
-These badges were originally published for [VMCAI 2020 by Claus Schätzle](https://github.com/schaetzc/vmcai-badges).
-* [VMCAI 2021 badges](pdf/vmcai/) ([Call for Artifacts](https://popl20.sigplan.org/home/VMCAI-2021#Call-for-Artifacts))
-* [VMCAI 2020 badges](pdf/vmcai/) ([Call for Artifacts](https://popl20.sigplan.org/home/VMCAI-2020#Call-for-Artifacts))  
+* [VMCAI 2026 badges](pdf/vmcai-26/) ([Call for Artifacts](https://conf.researchr.org/home/VMCAI-2026#Call-for-Artifacts))
 
+![vmcai-badge-available](examples/preview/vmcai-26/vmcai26-available.png) ![vmcai-badge-functional](examples/preview/vmcai-26/vmcai26-functional.png) ![vmcai-badge-reusable](examples/preview/vmcai-26/vmcai26-reusable.png)
+
+* The following badges were originally published for [VMCAI 2020 by Claus Schätzle](https://github.com/schaetzc/vmcai-badges).
+  * [VMCAI 2021 badges](pdf/vmcai/) ([Call for Artifacts](https://popl20.sigplan.org/home/VMCAI-2021#Call-for-Artifacts))
+  * [VMCAI 2020 badges](pdf/vmcai/) ([Call for Artifacts](https://popl20.sigplan.org/home/VMCAI-2020#Call-for-Artifacts))  
 
 ![vmcai-badge-available](examples/preview/vmcai/1-available.png) ![vmcai-badge-functional](examples/preview/vmcai/2-functional.png) ![vmcai-badge-reusable](examples/preview/vmcai/3-reusable.png)  
 
