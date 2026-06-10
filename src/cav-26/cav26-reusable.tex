@@ -1,0 +1,83 @@
+\documentclass[tikz,border=6pt]{standalone}
+\usepackage{tikz}
+\usetikzlibrary{decorations,decorations.text,calc,shapes.geometric}
+
+\begin{document}
+\begin{tikzpicture}[scale=1]
+  % Colors
+  \definecolor{acmred}{RGB}{204,0,0}
+  \definecolor{acmwhite}{RGB}{255,255,255}
+
+  % Parameters
+  \def\nspikes{12}
+  \def\Ro{5.2}   
+  \def\Ri{4.5}   
+  \def\ringA{3.9}  
+  \def\ringB{2.5}  % smaller inner ring
+  \def\bandOffset{0.25} 
+
+  % Radius for curved labels
+  \pgfmathsetmacro{\labelRadius}{\ringB + 0.5*(\ringA-\ringB) - \bandOffset}
+  % Slightly larger radius for upside-down "Functional" to center visually
+  \pgfmathsetmacro{\labelRadiusFunctional}{\labelRadius + 0.55} % pushed outward
+
+  % Outer spiky seal
+  \fill[acmred] (0:\Ro)
+    \foreach \i in {1,...,\nspikes} {
+      -- ({\i*360/\nspikes - 360/\nspikes/2}:\Ri)
+      -- ({\i*360/\nspikes}:\Ro)
+    } -- cycle;
+
+  % Double white rings
+  \draw[line width=1.6pt, acmwhite] (0,0) circle[radius=\ringA];
+  \draw[line width=1.6pt, acmwhite] (0,0) circle[radius=\ringB];
+
+  % Mask center area
+%  \fill[acmred] (0,0) circle[radius=\ringB-0.35];
+
+  % === Curved Texts (larger: 56pt) ===
+  % Reusable (upside down, visually centered)
+  \draw[
+    decorate,
+    decoration={
+      text along path,
+      text={|\sffamily\bfseries\fontsize{56pt}{56pt}\selectfont\color{acmwhite}|Reusable},
+      text align={center}
+    }
+  ] (220:\labelRadiusFunctional) arc (220:320:\labelRadiusFunctional);
+
+  % Available
+  \draw[
+    decorate,
+    decoration={
+      text along path,
+      text={|\sffamily\bfseries\fontsize{56pt}{56pt}\selectfont\color{acmwhite}|Available},
+      text align={center}
+    }
+  ] (186:\labelRadius) arc (186:116:\labelRadius);
+
+  % Functional
+  \draw[
+    decorate,
+    decoration={
+      text along path,
+      text={|\sffamily\bfseries\fontsize{56pt}{56pt}\selectfont\color{acmwhite}|Functional},
+      text align={center}
+    }
+  ] (70:\labelRadius) arc (70:-20:\labelRadius);
+
+  % === Center Text (three lines) ===
+  \node[
+    text=acmwhite,
+    font=\sffamily\bfseries,
+    align=center,
+    scale=1.2,
+    transform shape
+  ] at (0,0) {
+    \fontsize{48pt}{48pt}\selectfont CAV\\[8pt]
+    \fontsize{20pt}{34pt}\selectfont Artifact\\[4pt]
+    \fontsize{20pt}{34pt}\selectfont Evaluated
+  };
+
+\end{tikzpicture}
+\end{document}
